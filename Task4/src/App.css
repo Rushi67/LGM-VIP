@@ -1,0 +1,94 @@
+.btn {
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 40px;
+    padding: 5%;
+    margin: auto;
+    margin-bottom: 3%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: oblique;
+    box-shadow: 0.5rem 0.5rem 1rem rgba(71, 58, 63, 0.652);
+    border-radius: 10px;
+}
+
+.display {
+    background-color: #508550;
+    margin: auto;
+    height: 65px;
+    font-size: 40px;
+    padding: 2%;
+    box-sizing: content-box;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    color: white;
+    font-family: cursive;
+    border-radius: 13px;
+    padding-left: 4%;
+    border: 15px solid black;
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5%;
+}
+
+.calculator {
+    width: 27%;
+    margin: auto;
+    background-color: #000000;
+    box-shadow: 0.5rem 0.5rem 1rem rgba(71, 58, 63, 0.652);
+    border-radius: 3%;
+    border: 1px solid black;
+    margin-top: -2%;
+}
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 166, 0);
+    letter-spacing: 5px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #F5F5F5;
+    background-color: #023047;
+    height: 80px;
+    text-align: center;
+}
+
+#p1 {
+    font-family: cursive;
+    font-size: 120%;
+    margin: 7px 0;
+}
+
+#credit {
+    font-family: 'Ubuntu';
+    color: #FFB703;
+}
+
+.social a {
+    cursor: pointer;
+    margin: 0 20px;
+    font-size: 17px;
+
+}
+
+.social a:link {
+    color: #66BBCC;
+}
+
+.social a:visited {
+    color: #66BBCC;
+}
+
+.social a:hover {
+    color: #F5F5F5;
+}
