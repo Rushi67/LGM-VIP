@@ -1,5 +1,5 @@
 # Calculator
-### Task4 - Make a claculaor using REACT.
+### Task4 - Make a calculator using REACT.
 
 # Getting Started with Create React App
 
